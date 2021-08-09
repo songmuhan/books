@@ -1,3 +1,3 @@
 # books
 
-just for book storage
+just for books storage
